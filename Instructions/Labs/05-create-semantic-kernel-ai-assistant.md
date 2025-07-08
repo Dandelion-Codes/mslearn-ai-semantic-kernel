@@ -76,7 +76,7 @@ Now that you deployed a model, you can use the Semantic Kernel SDK to create a c
 
     **Python**
     ```
-    cd mslearn-ai-semantic-kernel/Labfiles/05-ai-assistant/Python
+    cd mslearn-ai-semantic-kernel/Labfiles/05-ai-assistant/python
     ```
 
     **C#**
