@@ -81,7 +81,7 @@ Now that you deployed a model, you can use the Semantic Kernel SDK to create a c
 
     **C#**
     ```
-    cd mslearn-ai-semantic-kernel/Labfiles/05-ai-assistant/C-sharp
+    cd mslearn-ai-semantic-kernel/Labfiles/05-ai-assistant/c-sharp
     ```
 
 1. In the cloud shell command-line pane, enter the following command to install the libraries you'll use:
@@ -154,7 +154,7 @@ Now that you deployed a model, you can use the Semantic Kernel SDK to create a c
     var kernel = builder.Build();
     ```
 
-1. Near the bottom of the file, find the comment **Create a kernel function to build the stage environment**, and add the following code to create a mock plugin functin that will build the staging environment:
+1. Near the bottom of the file, find the comment **Create a kernel function to build the stage environment**, and add the following code to create a mock plugin function that will build the staging environment:
 
     **Python**
     ```python
